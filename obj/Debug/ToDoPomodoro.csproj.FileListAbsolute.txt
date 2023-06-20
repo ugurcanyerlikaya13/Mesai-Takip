@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ToDoPomodoro\bin\Debug\ToDoPomodoro.exe.config
+C:\Users\hp\source\repos\ToDoPomodoro\bin\Debug\ToDoPomodoro.exe
+C:\Users\hp\source\repos\ToDoPomodoro\bin\Debug\ToDoPomodoro.pdb
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.Form1.resources
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.Properties.Resources.resources
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.exe
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.pdb
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.Form2.resources
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.Form3.resources
+C:\Users\hp\source\repos\ToDoPomodoro\bin\Debug\ToDoPomodoro.exe.manifest
+C:\Users\hp\source\repos\ToDoPomodoro\bin\Debug\ToDoPomodoro.application
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.exe.manifest
+C:\Users\hp\source\repos\ToDoPomodoro\obj\Debug\ToDoPomodoro.application

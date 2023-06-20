@@ -1,0 +1,11 @@
+ToDoPomodoro okulda yaptığım bir projedir. Online veya hibrit çalışma yöntemi uygulayan ofislerde çalışanların 
+takibi için geliştirdim.
+Özellikler:
+9 saatlik mesai dolmadan uygulama kapatılamaz.
+Seçilen süreye göre pomodoro yapmaya olanak sağlar.
+To Do List ile günlük yapılacak işler daha kolay takip edilir
+Gün sonu raporu alınabilir.
+Alınan rapor veri tabanına da kaydedilir. Kullanıcıya özel key üretir.
+
+NOT: veri tabani private olduğu için uygulamayı açamazsınız. Yalnızca iş başvurularımda kaynak kodun gözükmesi için projeyi yükledim.
+
